@@ -1,0 +1,15 @@
+name: Remover duplicado
+on:
+  workflow_dispatch:
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Remover arquivo duplicado
+        run: |
+          git rm -f index.html
+          git commit -m "Remover duplicado index.html"
+          git push
