@@ -6,6 +6,6 @@ Conceito de um sistema Linux com Rust, acessibilidade, suporte multilingue e fer
 
 ## O que está publicado
 
-Uma [maquete da página de boas-vindas](%C3%ADndice.html) em HTML. Para a veres, descarrega o ficheiro e abre-o no navegador.
+Uma [maquete da página de boas-vindas](%C3%ADndice.html) em HTML. Na página do ficheiro, usa o botão de descarregar e guarda-o com a extensão `.html`. Abre o ficheiro guardado no navegador. Vais ver a página de boas-vindas e um botão **Começar**, que mostra a mensagem «Vamos começar!». É uma maquete de interface que podes ver sem instalar um sistema operativo.
 
 Para o projeto dedicado a Rust no Android, consulta [Rust no Termux](https://github.com/mppt24/rustlinux-termux-installer).
