@@ -1,5 +1,7 @@
 # RustLinux MPPT24
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Conceito de um sistema Linux com Rust, acessibilidade, suporte multilingue e ferramentas MPPT24.
 
 ## O que está publicado
